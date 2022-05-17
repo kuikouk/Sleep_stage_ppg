@@ -1,3 +1,4 @@
 # Sleep_stage_detection
 
-stting
+setting the ppg data root, save root, and data sampling rate in "PPG_inference"
+
